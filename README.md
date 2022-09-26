@@ -1,6 +1,6 @@
 Aplicacion Web Para los doctores conectandose a la App CoraDoc
 
-Equipo # Wosniaks
+Equipo Wosniaks
 -----------------------
 Jose Andres Ordieres
 Ruben Bizarrap Barraza

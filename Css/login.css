@@ -1,0 +1,16 @@
+.background-image{
+    
+    background-image: url("/images/images/Fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    
+}
+
+
+#header {
+    font-size: large;
+    font-weight: bold;
+    color: #3f3f3f;
+}
+
